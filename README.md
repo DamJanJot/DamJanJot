@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack Web Developer
 PHP | Laravel | React | TypeScript  
-Tworzę nowoczesne, funkcjonalne aplikacje webowe – od mini-projektów po pełne portfolio apps.
+Tworzę nowoczesne, funkcjonalne aplikacje webowe 
 
 ---
 
@@ -11,11 +11,11 @@ Poniżej znajdują się działające projekty, które można przetestować w prz
 
 | Projekt | Link | Zrzut ekranu / GIF |
 |---------|------|------------------|
-| Projekty-d.j.pl | [Odwiedź](https://projekty-d.j.pl) | ![projekty-d.j.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/projekty-dj.gif) |
-| RJS-d.j.pl | [Odwiedź](https://rjs-d.j.pl) | ![rjs-d.j.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/rjs-dj.gif) |
+| Portfolio | [Odwiedź](https://projekty-d.j.pl) | ![projekty-d.j.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/projekty-dj.gif) |
+| optivio | [Odwiedź](https://rjs-d.j.pl) | ![rjs-d.j.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/rjs-dj.gif) |
 | Terkam-fus.pl | [Odwiedź](https://terkam-fus.pl) | ![terkam-fus.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/terkam-fus.gif) |
 | Notatnik-d.j.pl | [Odwiedź](https://notatnik-d.j.pl) | ![notatnik-d.j.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/notatnik-dj.gif) |
-| Kalendarz-j.pl | [Odwiedź](https://kalendarz-j.pl) | ![kalendarz-j.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/kalendarz-j.gif) |
+| Code Editor | [Odwiedź](https://projekty-d.j.pl/terminal/) | ![projekty-d.j.pl/terminal/](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/kalendarz-j.gif) |
 
 > Większość projektów powstała lokalnie i była testowana na serwerach przed publikacją na GitHub. Statystyki aktywności obejmują okres, gdy rozpocząłem systematyczne wrzucanie kodu.
 

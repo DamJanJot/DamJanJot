@@ -1,7 +1,7 @@
 # 👋 Cześć, tu Damian!
 
 ## 💻 Full-Stack Web Developer
-PHP | Laravel | React | TypeScript  
+PHP | JavaScript | CSS | Laravel | React | TypeScript  
 Tworzę nowoczesne, funkcjonalne aplikacje webowe 
 
 ---
@@ -15,7 +15,7 @@ Poniżej znajdują się działające projekty, które można przetestować w prz
 | optivio | [Odwiedź](https://rjs-d.j.pl) | ![rjs-d.j.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/rjs-dj.gif) |
 | Code Editor | [Odwiedź](https://projekty-d.j.pl/terminal/) | ![projekty-d.j.pl/terminal/](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/kalendarz-j.gif) |
 
-> Większość tworzonych przeze mnie projektów powstała i była testowana lokalnie oraz na moich serwerach. Teraz sklepjam/[rzerabiam i wrzucam na GitHub. 
+> Większość tworzonych przeze mnie projektów powstała i była testowana lokalnie oraz na moich serwerach. Aktualnie sklejam/przerabiam wszystko i wrzucam na GitHub. 
 ---
 
 ## 📈 Statystyki GitHub

@@ -18,6 +18,18 @@ Here are some of my live projects that you can try in your browser:
 
 ---
 
+## 📊 GitHub Stats:
+
+![Strea
+
+---
+
+## 📈 Skills
+k Stats](https://github-readme-streak-stats.herokuapp.com/?user=DamJanJot&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DamJanJot&layout=compact&theme=tokyonight)
+
+---
+
 ## 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -33,22 +45,6 @@ Here are some of my live projects that you can try in your browser:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DamJanJot&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DamJanJot&layout=compact&theme=tokyonight)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DamJanJot&theme=tokyonight)
-
-
----
-
-## 📈 Skills
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DamJanJot&layout=compact&theme=radical)
 
 ---
 

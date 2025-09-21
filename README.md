@@ -20,13 +20,15 @@ Here are some of my live projects that you can try in your browser:
 
 ## 📊 GitHub Stats:
 
-![Strea
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DamJanJot&theme=tokyonight)
+![Top Languages]
 
 ---
 
 ## 📈 Skills
-k Stats](https://github-readme-streak-stats.herokuapp.com/?user=DamJanJot&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DamJanJot&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwojaNazwaUzytkownika&layout=compact&theme=tokyonight)
+
 
 ---
 

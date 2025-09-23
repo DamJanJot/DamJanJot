@@ -18,13 +18,13 @@ Here are some of my live projects that you can try in your browser:
 
 ---
 
-## 📈 Skills
+## 📊 Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DamJanJot&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 GitHub Stats:
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DamJanJot&theme=tokyonight)
 

@@ -25,12 +25,6 @@ Here are some of my live projects that you can try in your browser:
 
 ---
 
-## 📈 GitHub Stats:
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DamJanJot&theme=tokyonight)
-
----
-
 ## 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

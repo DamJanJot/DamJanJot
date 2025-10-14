@@ -43,4 +43,4 @@ Here are some of my live projects that you can try in your browser:
 
 ## ✉️ Contact
 Have an idea or project? Contact me and let's create something together! 
-[Send a message](https://rjs-d.j.pl/kontakt/)
+[Contact 📩](https://rjs-d.j.pl/kontakt/)

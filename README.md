@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Damian!
 
 
-## 💻 Full-Stack Web Developer
+## 💻 Web Developer
 PHP | JavaScript | CSS | Laravel | React | TypeScript  
 I create modern, functional web applications.
 
@@ -42,4 +42,5 @@ Here are some of my live projects that you can try in your browser:
 ---
 
 ## ✉️ Contact
-Have an idea or project? Contact me and let's create something together!
+Have an idea or project? Contact me and let's create something together! 
+[Send a message](https://rjs-d.j.pl/kontakt/)

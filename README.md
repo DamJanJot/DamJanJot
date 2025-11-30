@@ -19,11 +19,6 @@ Here are some of my live projects that you can try in your browser:
 
 ---
 
-## 📊 Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DamJanJot&layout=compact&theme=tokyonight)
-
----
 
 ## 💻 Tech Stack:
 

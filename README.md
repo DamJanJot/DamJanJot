@@ -1,18 +1,10 @@
-# 👋 Hi, I'm Damian!
+# 👋 Hello
 
-
-## 💻 Web Developer
-PHP | JavaScript | CSS | Laravel | React | TypeScript  
-I create modern, functional web applications.
-
----
-
-## 🚀 Online Projects
-Here are some of my live projects that you can try in your browser:
-
-| Project | login token page |
+| Project | Link |
 |---------|------------------|
-| Portfolio | [open](https://projekty-d.j.pl) | ![projekty-d.j.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/projekty-dj.gif) |
+| Optivio | [open](https://projekty-d.j.pl) |  
+| Orbitum | [open](https://projekty-d.j.pl) |
+| Codexa | [open](https://projekty-d.j.pl/terminal/) |
 
 
 > Most of my projects were created and tested locally as well as on my servers. Currently, I am consolidating and refining everything to upload on GitHub.

@@ -1,6 +1,6 @@
 # 👋 Hello
 
-| Project | Link |
+| Project | Project link |
 |---------|------------------|
 | Optivio | [open](https://projekty-d.j.pl) |  
 | Orbitum | [open](https://projekty-d.j.pl) |

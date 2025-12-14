@@ -1,15 +1,3 @@
-# 👋 Hello
-
-| Project | Project link |
-|---------|------------------|
-| Optivio | [open](https://projekty-d.j.pl) |  
-| Orbitum | [open](https://projekty-d.j.pl) |
-| Codexa | [open](https://projekty-d.j.pl/terminal/) |
-
-
-> Most of my projects were created and tested locally as well as on my servers. Currently, I am consolidating and refining everything to upload on GitHub.
-
----
 
 
 ## 💻 Tech Stack:

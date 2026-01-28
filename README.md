@@ -18,4 +18,4 @@
 
 ## ✉️ Contact
 Have an idea or project? Contact me and let's create something together! 
-[Contact 📩](https://rjs-d.j.pl/kontakt/)
+[Contact 📩](https://code-d.j.pl/kontakt/)

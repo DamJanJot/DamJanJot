@@ -22,6 +22,21 @@
 
 ---
 
+| Projekt | Link | Zrzut ekranu / GIF |
+|---------|------|------------------|
+| App | [Odwiedź](https://code-d.j.pl/) | ![projekty-d.j.pl](https://apka-dj.vercel.app/) |
+| optivio | [Odwiedź](https://code-d.j.pl/optivio) | ![rjs-d.j.pl](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/rjs-dj.gif) |
+| Code Editor | [Odwiedź](https://code-d.j.pl/terminal/) | ![projekty-d.j.pl/terminal/](https://raw.githubusercontent.com/DamJanJot/optivio-app/main/screenshots/kalendarz-j.gif) |
+
+
+---
+
+## 📈 Statystyki GitHub
+![DamJanJot GitHub stats](https://github-readme-stats.vercel.app/api?username=DamJanJot&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamJanJot&layout=compact&theme=radical)
+
+---
+
 ## ✉️ Contact
 Have an idea or project? Contact me and let's create something together! 
 [Contact 📩](https://code-d.j.pl/kontakt/)

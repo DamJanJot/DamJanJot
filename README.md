@@ -1,17 +1,5 @@
 
 
-| Projekt | Link |
-|---------|------|
-| dj-app | [open](apka-dj.vercel.app) |
-| Optivio | [open](https://code-d.j.pl/optivio) |
-| Terminal | [open](terminal-chxe.onrender.com/) |
-| dj-widgets | [open](dj-widgets.vercel.app) |
-
-
-
----
-
-
 ## 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

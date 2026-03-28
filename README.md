@@ -23,12 +23,6 @@
 
 ---
 
-## 📈 Statystyki GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamJanJot&layout=compact&theme=radical)
-
-
----
-
 ## ✉️ Contact
 Have an idea or project? Contact me and let's create something together! 
 

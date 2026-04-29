@@ -1,7 +1,5 @@
 # DamJanJot
 
- Full-stack web apps
-
 <details>
 <summary><b>About me</b></summary>
 

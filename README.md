@@ -1,9 +1,11 @@
 # DamJanJot
 
+
 <details>
 <summary><b>About me</b></summary>
 
 </details>
+
 
 ---
 
@@ -26,6 +28,10 @@
 ![SmartClient](https://img.shields.io/badge/SmartClient-2C3E50?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F3F7&width=435&lines=The+only+constant+in+life+is+change)](https://git.io/typing-svg)
 
 ---
 

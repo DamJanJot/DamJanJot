@@ -1,15 +1,23 @@
-# DamJanJot
+# DamJanJot 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer)](https://git.io/typing-svg)
 
+----
 
 <details>
 <summary><b>About me</b></summary>
-
+  
+<br>
+I currently work as a <b>Web Developer</b>. On a daily basis, I focus on maintaining and improving existing websites and mobile applications, building new applications, and migrating legacy projects to modern technologies. Thanks to this, I’ve gained experience with a wide range of practices, solutions, programming languages, frameworks, technologies, and tools.
+<br>
+<br>
+  
+This profile is my personal space where I develop private projects, learn new things, and experiment with different ideas. You’ll find various useful projects here — some in their early stages, others more advanced — and even that is only a small fraction of what I have on my computer and in my private repositories.
+  
 </details>
-
 
 ---
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,7 +40,7 @@
 ---
 
 
-## ✉️ Contact
+### ✉️ Contact
 Have an idea or project? Contact me and let's create something together! 
 
 [Contact 📩](https://code-d.j.pl/kontakt/)

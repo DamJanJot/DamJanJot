@@ -7,15 +7,26 @@
 <summary><b>About me</b></summary>
   
 <br>
+<blockquote>
 I currently work as a <b>Web Developer</b>. On a daily basis, I focus on maintaining and improving existing websites and mobile applications, building new applications, and migrating legacy projects to modern technologies. Thanks to this, I’ve gained experience with a wide range of practices, solutions, programming languages, frameworks, technologies, and tools.
 <br>
 <br>
   
 This profile is my personal space where I develop private projects, learn new things, and experiment with different ideas. You’ll find various useful projects here — some in their early stages, others more advanced — and even that is only a small fraction of what I have on my computer and in my private repositories.
-  
+</blockquote>  
 </details>
 
+
+
 ---
+
+
+ - <img width="24" height="24" alt="neuro_netix_logo-bezbg" src="https://github.com/user-attachments/assets/bd6db8c2-5cf6-4044-8619-4f67a2ae88a7" /> Neuronetix
+
+
+
+---
+
 
 ### 💻 Tech Stack:
 
@@ -44,3 +55,16 @@ This profile is my personal space where I develop private projects, learn new th
 Have an idea or project? Contact me and let's create something together! 
 
 [Contact 📩](https://code-d.j.pl/kontakt/)
+
+
+
+---
+
+
+<p align="center">
+  <sub> 
+     <strong></strong>
+    <br>
+   <a href="https://github.com/DamJanJot">@DamJanJot</a> 
+  </sub>
+</p>

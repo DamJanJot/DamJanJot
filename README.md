@@ -21,13 +21,6 @@ This profile is my personal space where I develop private projects, learn new th
 ---
 
 
- - <img width="24" height="24" alt="neuro_netix_logo-bezbg" src="https://github.com/user-attachments/assets/bd6db8c2-5cf6-4044-8619-4f67a2ae88a7" /> Neuronetix
-
-
-
----
-
-
 ### 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

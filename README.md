@@ -1,7 +1,6 @@
-# DamJanJot 
+# <h1><strong><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d4475a08-02e2-41d4-b6c6-2480c0b92a94" /> DamJanJot </strong></h1> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer)](https://git.io/typing-svg)
 
-----
 
 <details>
 <summary><b>About me</b></summary>
@@ -21,7 +20,7 @@ This profile is my personal space where I develop private projects, learn new th
 ---
 
 
-### 💻 Tech Stack:
+### <h2> 💻 Tech Stack </h2>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,11 +43,21 @@ This profile is my personal space where I develop private projects, learn new th
 ---
 
 
-### ✉️ Contact
-Have an idea or project? Contact me and let's create something together! 
+### <h2> ✉️ Contact </h2>
 
-[Contact 📩](https://code-d.j.pl/kontakt/)
 
+<h3 align="center">
+  <sub> 
+     <strong>Have an idea or project? Contact me and let's create something together! </strong>
+  </sub>
+</h3>
+
+
+<h3 align="end">
+  <sub> 
+   <a href="https://code-d.j.pl/kontakt/">Send message 📩</a> 
+  </sub>
+</h3>
 
 
 ---
@@ -58,6 +67,6 @@ Have an idea or project? Contact me and let's create something together!
   <sub> 
      <strong></strong>
     <br>
-   <a href="https://github.com/DamJanJot">@DamJanJot</a> 
+   <a href="https://github.com/DamJanJot">@DamJanJot </a> 
   </sub>
 </p>

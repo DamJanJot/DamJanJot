@@ -48,11 +48,9 @@ This profile is my personal space where I develop private projects, learn new th
 <table align="center">
   <tr>
     <td align="center" width="112">
-      <img src="https://github.com/user-attachments/assets/d819d5c9-8e93-4d25-9780-d545dcd53069" width="48" height="48" alt="osobli" />
-      <br />
       <details>
         <summary>
-          <b>Osobliwość</b>
+      <img src="https://github.com/user-attachments/assets/d819d5c9-8e93-4d25-9780-d545dcd53069" width="48" height="48" alt="osobli" />
         </summary>
         <br>
         <blockquote>
@@ -61,11 +59,9 @@ This profile is my personal space where I develop private projects, learn new th
       </details>
     </td>
     <td align="center" width="112">
-      <img src="https://github.com/user-attachments/assets/4e93daae-92cc-416e-9e27-3192e940743f" width="48" height="48" alt="MySQL" />
-      <br />      
       <details>
         <summary>
-          <b>Pulsar</b>
+      <img src="https://github.com/user-attachments/assets/4e93daae-92cc-416e-9e27-3192e940743f" width="48" height="48" alt="MySQL" />
         </summary>
         <br>
         <blockquote>
@@ -74,11 +70,9 @@ This profile is my personal space where I develop private projects, learn new th
       </details>
     </td>
     <td align="center" width="112">
-      <img src="https://github.com/user-attachments/assets/2c5e29cc-5e35-4234-a332-afa71c1987bb" width="48" height="48" alt="Optivio" />
-      <br />      
       <details>
         <summary>
-          <b>Optivio</b>
+      <img src="https://github.com/user-attachments/assets/2c5e29cc-5e35-4234-a332-afa71c1987bb" width="48" height="48" alt="Optivio" />
         </summary>
         <br>
         <blockquote>
@@ -87,11 +81,9 @@ This profile is my personal space where I develop private projects, learn new th
       </details>
     </td>
     <td align="center" width="112">
-      <img src="https://github.com/user-attachments/assets/96c78d4d-70e0-4078-a55a-f30c0e727b7e" width="48" height="48" alt="Taskora" />
-      <br />      
       <details>
         <summary>
-          <b>Taskora</b>
+      <img src="https://github.com/user-attachments/assets/96c78d4d-70e0-4078-a55a-f30c0e727b7e" width="48" height="48" alt="Taskora" />
         </summary>
         <br>
         <blockquote>
@@ -100,11 +92,9 @@ This profile is my personal space where I develop private projects, learn new th
       </details>
     </td>
     <td align="center" width="112">
-      <img src="https://github.com/user-attachments/assets/59598e91-99bd-41b3-8aa1-40bba51c6988" width="48" height="48" alt="Neuronetix" />
-      <br />      
       <details>
         <summary>
-          <b>Neuronetix</b>
+      <img src="https://github.com/user-attachments/assets/59598e91-99bd-41b3-8aa1-40bba51c6988" width="48" height="48" alt="Neuronetix" />
         </summary>
         <br>
         <blockquote>
@@ -113,11 +103,9 @@ This profile is my personal space where I develop private projects, learn new th
       </details>
     </td>
     <td align="center" width="112">
-      <img src="https://github.com/user-attachments/assets/fa296159-fb8c-4e4f-ba6f-b539d43e6862" width="48" height="48" alt="Spring Boot" />
-      <br />      
       <details>
         <summary>
-          <b>Orbitum</b>
+      <img src="https://github.com/user-attachments/assets/fa296159-fb8c-4e4f-ba6f-b539d43e6862" width="48" height="48" alt="Spring Boot" />
         </summary>
         <br>
         <blockquote>

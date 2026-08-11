@@ -52,11 +52,11 @@ This profile is my personal space where I develop private projects, learn new th
       <br />
       <details>
         <summary>
-          <b>Osobliwość</b>
+          <b></b>
         </summary>
         <br>
         <blockquote>
-          Terminal Habitat 
+           
         </blockquote>  
       </details>
     </td>
@@ -65,7 +65,7 @@ This profile is my personal space where I develop private projects, learn new th
       <br />      
       <details>
         <summary>
-          <b>Pulsar</b>
+          <b></b>
         </summary>
         <br>
         <blockquote>
@@ -78,7 +78,7 @@ This profile is my personal space where I develop private projects, learn new th
       <br />      
       <details>
         <summary>
-          <b>Optivio</b>
+          <b></b>
         </summary>
         <br>
         <blockquote>
@@ -91,7 +91,7 @@ This profile is my personal space where I develop private projects, learn new th
       <br />      
       <details>
         <summary>
-          <b>Taskora</b>
+          <b></b>
         </summary>
         <br>
         <blockquote>
@@ -104,11 +104,11 @@ This profile is my personal space where I develop private projects, learn new th
       <br />      
       <details>
         <summary>
-          <b>Neuronetix</b>
+          <b></b>
         </summary>
         <br>
         <blockquote>
-          Neuronetix ............
+          Neuronetix 
         </blockquote>  
       </details>
     </td>
@@ -117,7 +117,7 @@ This profile is my personal space where I develop private projects, learn new th
       <br />      
       <details>
         <summary>
-          <b>Orbitum</b>
+          <b></b>
         </summary>
         <br>
         <blockquote>

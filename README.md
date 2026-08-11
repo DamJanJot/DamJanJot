@@ -237,6 +237,6 @@ This profile is my personal space where I develop private projects, learn new th
   <sub> 
      <strong></strong>
     <br>
-   <a href="https://github.com/DamJanJot"><strong><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/d4475a08-02e2-41d4-b6c6-2480c0b92a94" /> @DamJanJot </strong> </a> 
+   <a href="https://github.com/DamJanJot"><strong> @DamJanJot </strong> </a> 
   </sub>
 </p>

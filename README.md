@@ -217,7 +217,6 @@ This profile is my personal space where I develop private projects, learn new th
 ---
 
 
-<br>
 
 ### <h2> ✉️ Contact </h2>
 

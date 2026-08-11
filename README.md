@@ -117,7 +117,7 @@ This profile is my personal space where I develop private projects, learn new th
       <br />      
       <details>
         <summary>
-          <b></b>
+          <b>Orbitum</b>
         </summary>
         <br>
         <blockquote>

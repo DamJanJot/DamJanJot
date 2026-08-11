@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer)](https://git.io/typing-svg)
 
+
 </div>
 
 ### <h2> <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/d4475a08-02e2-41d4-b6c6-2480c0b92a94" /> DamJanJot  </h2>
@@ -55,7 +56,7 @@ This profile is my personal space where I develop private projects, learn new th
         </summary>
         <br>
         <blockquote>
-          Osobliwość ............
+          Terminal Habitat 
         </blockquote>  
       </details>
     </td>
@@ -68,7 +69,7 @@ This profile is my personal space where I develop private projects, learn new th
         </summary>
         <br>
         <blockquote>
-          Pulsar ............
+          Czat między użytkownikami oraz historia habitatu
         </blockquote>  
       </details>
     </td>
@@ -81,7 +82,7 @@ This profile is my personal space where I develop private projects, learn new th
         </summary>
         <br>
         <blockquote>
-          Optivio ............
+          Mobilna wersja na telefon
         </blockquote>  
       </details>
     </td>
@@ -94,7 +95,7 @@ This profile is my personal space where I develop private projects, learn new th
         </summary>
         <br>
         <blockquote>
-          Taskora ............
+          Miejsce do zlecania tasków 
         </blockquote>  
       </details>
     </td>
@@ -120,7 +121,7 @@ This profile is my personal space where I develop private projects, learn new th
         </summary>
         <br>
         <blockquote>
-          Orbitum ............
+           Orbitum 
         </blockquote>  
       </details>
     </td>
@@ -152,6 +153,8 @@ This profile is my personal space where I develop private projects, learn new th
 | Repo | About | Languages | 
 |------|-------|-----|
 | <a href="https://github.com/DamJanJot/cardputer">Cardputest</a> | A MicroPython application for Cardputer that enables wireless app synchronization from a remote server to your device's SD card | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow) |
+| <a href="https://github.com/DamJanJot/looper"> Looper </a> | A browser-based MIDI learning and music-making workstation built with the Web MIDI API, Web Audio API, vanilla JavaScript, and optional PHP persistence | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+
 
 
 
@@ -176,12 +179,14 @@ This profile is my personal space where I develop private projects, learn new th
 </details>
 
 
-
 ---
 
-<br>
 
-### <h2> 💻 Tech Stack </h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+<div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -201,16 +206,17 @@ This profile is my personal space where I develop private projects, learn new th
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
 
+</div>
 
 
-
-
-
-
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
 
 ---
+
+
 <br>
 
 ### <h2> ✉️ Contact </h2>

@@ -140,8 +140,8 @@ This profile is my personal space where I develop private projects, learn new th
 
 | Repo | About | Languages | 
 |------|-------|-----|
-| <a href="https://github.com/DamJanJot/cardputer">Cardputest</a> | A MicroPython application for Cardputer that enables wireless app synchronization from a remote server to your device's SD card | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow) |
-| <a href="https://github.com/DamJanJot/looper"> Looper </a> | A browser-based MIDI learning and music-making workstation built with the Web MIDI API, Web Audio API, vanilla JavaScript, and optional PHP persistence | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| <a href="https://github.com/DamJanJot/cardputer">Cardputest</a> | A MicroPython application for Cardputer that enables wireless app synchronization from a remote server to your device's SD card | <img src="https://cdn.simpleicons.org/php" width="24" height="24" alt="PHP"> <img src="https://cdn.simpleicons.org/python" width="24" height="24" alt="Python"> |
+| <a href="https://github.com/DamJanJot/looper"> Looper </a> | A browser-based MIDI learning and music-making workstation built with the Web MIDI API, Web Audio API, vanilla JavaScript, and optional PHP persistence | <img src="https://cdn.simpleicons.org/php" width="24" height="24" alt="PHP"> <img src="https://cdn.simpleicons.org/javascript" width="24" height="24" alt="JavaScript"> |
 
 
 
@@ -177,7 +177,7 @@ This profile is my personal space where I develop private projects, learn new th
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -193,6 +193,8 @@ This profile is my personal space where I develop private projects, learn new th
 ![SmartClient](https://img.shields.io/badge/SmartClient-2C3E50?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
+
+
 
 </div>
 

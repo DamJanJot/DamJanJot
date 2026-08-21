@@ -98,7 +98,7 @@ This profile is my personal space where I develop private projects, learn new th
         </summary>
         <br>
         <blockquote>
-          Neuronetix ............
+          Neuronetix 
         </blockquote>  
       </details>
     </td>
@@ -176,24 +176,40 @@ This profile is my personal space where I develop private projects, learn new th
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SmartClient](https://img.shields.io/badge/SmartClient-2C3E50?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="32" height="32" alt="PHP" title="PHP">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/663399" width="32" height="32" alt="CSS" title="CSS">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" alt="JavaScript" title="JavaScript">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="32" height="32" alt="Bootstrap" title="Bootstrap">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sass/CC6699" width="32" height="32" alt="Sass" title="Sass">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" height="32" alt="MySQL" title="MySQL">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub" title="GitHub">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="32" height="32" alt="Laravel" title="Laravel">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" alt="React" title="React">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" height="32" alt="TypeScript" title="TypeScript">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" title="Git">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="32" height="32" alt="Docker" title="Docker">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" height="32" alt="pgAdmin" title="pgAdmin">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="32" height="32" alt="Linux" title="Linux">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="32" height="32" alt="Ubuntu" title="Ubuntu">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python" title="Python">
 
+</p>
 
 
 </div>

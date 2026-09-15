@@ -208,6 +208,9 @@ This profile is my personal space where I develop private projects, learn new th
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="32" height="32" alt="Ubuntu" title="Ubuntu">
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python" title="Python">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/C++/3776AB" width="32" height="32" alt="C++" title="C++">
+
 
 </p>
 

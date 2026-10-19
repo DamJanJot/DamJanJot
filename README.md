@@ -22,7 +22,7 @@ This profile is my personal space where I develop private projects, learn new th
 </details>
 
 
-
+---
 
 <details>
 <summary><b>App</b></summary>
@@ -39,10 +39,6 @@ This profile is my personal space where I develop private projects, learn new th
 <img  width="64" height="64" alt="Zrzut_ekranu_2026-07-20_032852-removebg-preview" src="https://github.com/user-attachments/assets/75e58330-bb3f-491d-b01e-1d6b56b67ade" />
 
 </div>
-
-
-
-
 
 
 <table align="center">
@@ -127,27 +123,9 @@ This profile is my personal space where I develop private projects, learn new th
 
 <br>
 
----
-
-
-<br>
-
-## Playground
-
-<div align="center">
- 
-
-
-| Repo | About | Languages | 
-|------|-------|-----|
-| <a href="https://github.com/DamJanJot/cardputer">Cardputest</a> | A MicroPython application for Cardputer that enables wireless app synchronization from a remote server to your device's SD card | <img src="https://cdn.simpleicons.org/php" width="24" height="24" alt="PHP"> <img src="https://cdn.simpleicons.org/python" width="24" height="24" alt="Python"> |
-| <a href="https://github.com/DamJanJot/looper"> Looper </a> | A browser-based MIDI learning and music-making workstation built with the Web MIDI API, Web Audio API, vanilla JavaScript, and optional PHP persistence | <img src="https://cdn.simpleicons.org/php" width="24" height="24" alt="PHP"> <img src="https://cdn.simpleicons.org/javascript" width="24" height="24" alt="JavaScript"> |
 
 
 
-
-
-</div>
 
 
 ---
@@ -165,6 +143,32 @@ This profile is my personal space where I develop private projects, learn new th
 
 </blockquote>  
 </details>
+
+
+
+
+---
+
+<br>
+
+
+<div align="center">
+ 
+
+
+| Repo | About | Languages | 
+|------|-------|-----|
+| <a href="https://github.com/DamJanJot/cardputer">Cardputest</a> | A MicroPython application for Cardputer that enables wireless app synchronization from a remote server to your device's SD card | <img src="https://cdn.simpleicons.org/php" width="24" height="24" alt="PHP"> <img src="https://cdn.simpleicons.org/python" width="24" height="24" alt="Python"> |
+| <a href="https://github.com/DamJanJot/looper"> Looper </a> | A browser-based MIDI learning and music-making workstation built with the Web MIDI API, Web Audio API, vanilla JavaScript, and optional PHP persistence | <img src="https://cdn.simpleicons.org/php" width="24" height="24" alt="PHP"> <img src="https://cdn.simpleicons.org/javascript" width="24" height="24" alt="JavaScript"> |
+| <a href="https://github.com/DamJanJot/chromecast-remote">Chromecast-remote</a> | A lightweight terminal-based remote control for Chromecast with Google TV / Android TV, using ADB over Wi-Fi | <img src="https://cdn.simpleicons.org/python" width="24" height="24" alt="Python"> |
+| <a href="https://github.com/DamJanJot/flylab-demo">FlyLab</a> | Local fly model experimentation lab: NeuroMechFly/FlyGym biomechanics at MuJoCo, Brian2 neural model and browser panel | <img src="https://cdn.simpleicons.org/python" width="24" height="24" alt="Python"> <img src="https://cdn.simpleicons.org/javascript" width="24" height="24" alt="JavaScript"> |
+| <a href="https://github.com/DamJanJot/cardputer-agent">Cardputer-agent</a> | Pocket-sized AI client for the original M5Stack Cardputer |  <img src="https://cdn.simpleicons.org/C++/3776AB" width="24" height="24" alt="C++" title="C++">   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="24" height="24" alt="TypeScript" title="TypeScript"> |
+
+
+
+
+</div>
+
 
 
 ---

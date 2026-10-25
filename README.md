@@ -3,8 +3,31 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer)](https://git.io/typing-svg)
 
+<br>
+
+You’ll occasionally find a mix of Polish and English here. Sorry, I’m not lowering my standards. 🇵🇱😉
+<details>
+<summary>There’s even a benchmark to back up the joke 👀</summary>
+
+
+OneRuler, developed by researchers affiliated with the University of Maryland, Microsoft, and UMass Amherst, evaluated language models across 26 languages.
+
+In its long-context information retrieval tests at 64K and 128K tokens, Polish ranked first, averaging 88% accuracy across the tested models. English came sixth, at 83.9%.
+
+Does that make Polish the best language for every AI prompt? No. Does it give me an excellent excuse to keep writing in Polish? Absolutely.
+
+<p>
+  📄 <a href="https://arxiv.org/abs/2503.01996">Research paper</a>
+  ·
+  📊 <a href="https://arxiv.org/html/2503.01996v3#S3.SS1">Results — Section 3.1</a>
+  ·
+  💻 <a href="https://github.com/mungg/OneRuler">Official benchmark repository</a>
+</p>
+</details>
 
 </div>
+
+<hr>
 
 ### <h2> <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/d4475a08-02e2-41d4-b6c6-2480c0b92a94" /> DamJanJot  </h2>
 
@@ -22,7 +45,7 @@ This profile is my personal space where I develop private projects, learn new th
 </details>
 
 
----
+
 
 <details>
 <summary><b>App</b></summary>

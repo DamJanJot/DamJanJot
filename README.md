@@ -249,7 +249,7 @@ This profile is my personal space where I develop private projects, learn new th
 
 ### <h2> ✉️ Contact </h2>
 
-
+<br>
 <h3 align="center">
   <sub> 
      <strong>Have an idea or project? Contact me and let's create something together! </strong>

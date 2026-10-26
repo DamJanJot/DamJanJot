@@ -195,46 +195,7 @@ This profile is my personal space where I develop private projects, learn new th
 </div>
 
 <div align="center">
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="32" height="32" alt="PHP" title="PHP">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css/663399" width="32" height="32" alt="CSS" title="CSS">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" alt="JavaScript" title="JavaScript">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="32" height="32" alt="Bootstrap" title="Bootstrap">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/sass/CC6699" width="32" height="32" alt="Sass" title="Sass">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" height="32" alt="MySQL" title="MySQL">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub" title="GitHub">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="32" height="32" alt="Laravel" title="Laravel">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" alt="React" title="React">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" height="32" alt="TypeScript" title="TypeScript">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" title="Git">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="32" height="32" alt="Docker" title="Docker">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" height="32" alt="pgAdmin" title="pgAdmin">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="32" height="32" alt="Linux" title="Linux">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="32" height="32" alt="Ubuntu" title="Ubuntu">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python" title="Python">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/C++/3776AB" width="32" height="32" alt="C++" title="C++">
-
-
-</p>
-
-
+  <img src="./assets/tech-marquee.svg" width="100%" alt="Technologies I use: PHP, CSS, JavaScript, Bootstrap, Sass, MySQL, GitHub, Laravel, React, TypeScript, Git, Docker, PostgreSQL, Linux, Ubuntu, Python, and C++">
 </div>
 
 

@@ -223,7 +223,7 @@ This profile is my personal space where I develop private projects, learn new th
 
 <h3 align="end">
   <sub> 
-   <a href="https://code-d.j.pl/kontakt/">Send message 📩</a> 
+   <a href="https://d.j.pl/public/kontakt/">Send message 📩</a>
   </sub>
 </h3>
 
